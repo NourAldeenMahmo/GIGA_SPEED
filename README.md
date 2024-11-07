@@ -27,4 +27,4 @@ GIGA SPEED is a web platform dedicated to helping users explore and compare inte
 ## Installation and Setup
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-username/GIGA_SPEED.git
+   git clone https://github.com/NourAldeenMahmo/GIGA_SPEED.git
